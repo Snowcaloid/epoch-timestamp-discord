@@ -1,0 +1,23 @@
+{
+  "name": "epoch-timestamp-discord",
+  "version": "1.0.0",
+  "description": "epoch timestamp discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowcaloid/epoch-timestamp-discord.git"
+  },
+  "author": "snowcaloid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snowcaloid/epoch-timestamp-discord/issues"
+  },
+  "homepage": "https://github.com/Snowcaloid/epoch-timestamp-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
